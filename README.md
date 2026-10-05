@@ -1,6 +1,24 @@
 # 💫 Hi 👋, I'm Saini Chakraborty
 **An aspiring Data Analyst || Business Analyst**
 
+## About Me:
+I am a data enthusiast with a background in Economics, passionate about transforming raw data into clear, actionable insights. My journey is driven by a deep curiosity to solve real-world business puzzles, cut costs, and drive revenue through data-backed decisions.
+I am continuously upskilling and learning every day to stay ahead of industry trends and understand real-world market scenarios as I work toward becoming a full-time Data Analyst.
+
+**🛠️ My Data Toolkit**
+- Languages: Python, R, SQL
+- Data Manipulation & Analysis: Excel, Advanced Statistical Modeling, Data Wrangling
+- Data Visualization & BI: Power BI, Interactive Dashboards
+- Core Competencies: Data-Driven Decision Making, Cross-Functional Communication, Trend Analysis
+
+**🚀 Experience & Impact**
+
+The Analytical Edge: I bridge the gap between technical metrics and stakeholder communication, ensuring complex findings are easy for anyone to understand.
+
+**🎯 What I Bring to the Table**
+
+I am a fast learner and an agile problem-solver who thrives on collaboration. I don’t walk away from a complex dataset until it reveals its true story. I'm always eager to connect with data professionals, learn from seasoned analysts, and contribute my unique perspective to cross-functional teams.
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sainichakraborty) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:csainichakraborty@gmail.com) 
 
